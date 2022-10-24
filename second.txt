@@ -8,3 +8,5 @@ das
 stash heretes
 
 rebase tp
+
+rebase remote 
